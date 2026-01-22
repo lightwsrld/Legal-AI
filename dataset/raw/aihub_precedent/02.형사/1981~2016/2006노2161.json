@@ -1,0 +1,54 @@
+{
+    "info": {
+        "caseField": "2",
+        "detailField": "6",
+        "trailField": "2",
+        "caseNm": "폭력행위등처벌에관한법률위반(집단,흉기등상해)",
+        "courtNm": "서울중앙지방법원",
+        "judmnAdjuDe": "2006. 11. 02.",
+        "caseNo": "2006노2161",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "4",
+        "dedat": "1"
+    },
+    "org": {
+        "orgJdgmnCourtNm": "서울중앙지방법원 ",
+        "orgJdgmnAdjuDe": "2006. 7. 26.",
+        "orgJdgmnCaseNo": "2006고단2461"
+    },
+    "disposal": {
+        "disposalform": "10",
+        "disposalcontent": [
+            "피고인의 항소를 기각한다."
+        ]
+    },
+    "mentionedItems": {
+        "rqestObjet": [
+            "원심의 형량이 너무 무거워서 부당하다."
+        ]
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": [
+            "피고인의 항소이유의 요지는 원심의 형량이 너무 무거워서 부당하다는 것이다."
+        ]
+    },
+    "facts": {
+        "bsisFacts": [
+            "원심의 형량은 적절하다고 보여진다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이 사건의 경위, 피고인의 전과관계, 그밖에 피고인의 연령, 가정환경, 성행 등 이 사건에 나타난 제반 양형조건들을 종합하여 보면 원심의 형량은 적절하다고 보여지므로, 피고인의 주장은 이유 없다"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "피고인의 항소를 기각한다."
+        ]
+    }
+}

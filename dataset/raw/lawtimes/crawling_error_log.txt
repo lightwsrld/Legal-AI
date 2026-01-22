@@ -1,0 +1,26 @@
+# Python
+Failed: https://www.lawtimes.co.kr/Case-curation/159033 -> 500 Server Error: Internal Server Error for url: https://www.lawtimes.co.kr/Case-curation/159033
+Failed: https://www.lawtimes.co.kr/Case-curation/158402 -> 500 Server Error: Internal Server Error for url: https://www.lawtimes.co.kr/Case-curation/158402
+Failed: https://www.lawtimes.co.kr/Case-curation/156798 -> 500 Server Error: Internal Server Error for url: https://www.lawtimes.co.kr/Case-curation/156798
+Failed: https://www.lawtimes.co.kr/Case-curation/154269 -> 500 Server Error: Internal Server Error for url: https://www.lawtimes.co.kr/Case-curation/154269
+Failed: https://www.lawtimes.co.kr/Case-curation/154383 -> 500 Server Error: Internal Server Error for url: https://www.lawtimes.co.kr/Case-curation/154383
+Failed: https://www.lawtimes.co.kr/Case-curation/154076 -> 500 Server Error: Internal Server Error for url: https://www.lawtimes.co.kr/Case-curation/154076
+Failed: https://www.lawtimes.co.kr/Case-curation/153766 -> 500 Server Error: Internal Server Error for url: https://www.lawtimes.co.kr/Case-curation/153766
+Failed: https://www.lawtimes.co.kr/Case-curation/153506 -> 500 Server Error: Internal Server Error for url: https://www.lawtimes.co.kr/Case-curation/153506
+Failed: https://www.lawtimes.co.kr/Case-curation/153255 -> 500 Server Error: Internal Server Error for url: https://www.lawtimes.co.kr/Case-curation/153255
+Failed: https://www.lawtimes.co.kr/Case-curation/152234 -> 500 Server Error: Internal Server Error for url: https://www.lawtimes.co.kr/Case-curation/152234
+Failed: https://www.lawtimes.co.kr/Case-curation/150640 -> 500 Server Error: Internal Server Error for url: https://www.lawtimes.co.kr/Case-curation/150640
+Failed: https://www.lawtimes.co.kr/Case-curation/150641 -> 500 Server Error: Internal Server Error for url: https://www.lawtimes.co.kr/Case-curation/150641
+Failed: https://www.lawtimes.co.kr/Case-curation/150364 -> 500 Server Error: Internal Server Error for url: https://www.lawtimes.co.kr/Case-curation/150364
+Failed: https://www.lawtimes.co.kr/Case-curation/150351 -> 500 Server Error: Internal Server Error for url: https://www.lawtimes.co.kr/Case-curation/150351
+Failed: https://www.lawtimes.co.kr/Case-curation/150079 -> 500 Server Error: Internal Server Error for url: https://www.lawtimes.co.kr/Case-curation/150079
+Failed: https://www.lawtimes.co.kr/Case-curation/150300 -> 500 Server Error: Internal Server Error for url: https://www.lawtimes.co.kr/Case-curation/150300
+Failed: https://www.lawtimes.co.kr/Case-curation/149676 -> 500 Server Error: Internal Server Error for url: https://www.lawtimes.co.kr/Case-curation/149676
+Failed: https://www.lawtimes.co.kr/Case-curation/148811 -> 500 Server Error: Internal Server Error for url: https://www.lawtimes.co.kr/Case-curation/148811
+
+# === hand craft ===
+# 빈 문항
+https://www.lawtimes.co.kr/Case-curation/192528,"헌재, 군대 내 동성애 처벌하는 군형법 조항 ‘합헌’",
+https://www.lawtimes.co.kr/Case-curation/192529,"헌재, 에이즈예방법 전파매개행위 처벌 조항 '합헌'",
+https://www.lawtimes.co.kr/Case-curation/192530,"헌재, 방송3법 입법 절차 권한쟁의심판 '기각'",
+https://www.lawtimes.co.kr/Case-curation/192534,"헌재, ""노란봉투법 입법 절차 위법 없다""… 국힘 권한쟁의 심판 청구 '기각'",

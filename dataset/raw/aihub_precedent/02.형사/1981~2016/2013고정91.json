@@ -1,0 +1,55 @@
+{
+    "info": {
+        "caseField": "2",
+        "detailField": "6",
+        "trailField": "1",
+        "caseNm": "상해",
+        "courtNm": "서울남부지방법원",
+        "judmnAdjuDe": "2013. 01. 31.",
+        "caseNo": "2013고정91",
+        "relateLaword": [
+            "형법 제257조",
+            "형법 제70조",
+            "형법 제69조",
+            "형법 제59조"
+        ],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "4",
+        "dedat": "1"
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "10",
+        "disposalcontent": [
+            "피고인에 대하여 형의 선고를 유예한다."
+        ]
+    },
+    "mentionedItems": {
+        "rqestObjet": [
+            "피고인은 택시운전사인 피해자에게 팔로 목을 3분 가량 조여 경추부 염좌상을 가하였으므로 상해죄로 처벌받아야 한다."
+        ]
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피고인은 2012.10.12.01:50경 0000 77-7 앞 노상에서 피해자 B 남 51세이 운전하는 C 택시의 뒷좌석에 승차하여 피해자가 목적지를 정확히 말해 들라고 하자 화가 나서 \"그것도 모르냐 이 새끼야\" 라고 소리치면서 팔로 피해자의 목을 약 3분가량 조여 피해자에게 약 2주간의 치료가 필요한 경추부 염좌상을 가하였다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "피고인에 대하여 형의 선고를 유예한다."
+        ]
+    }
+}

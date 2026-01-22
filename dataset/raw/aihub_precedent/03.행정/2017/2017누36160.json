@@ -1,0 +1,56 @@
+{
+    "info": {
+        "caseField": "3",
+        "detailField": "5",
+        "trailField": "2",
+        "caseNm": "증여세부과처분취소",
+        "courtNm": "서울고등법원",
+        "judmnAdjuDe": "2017. 08. 24.",
+        "caseNo": "2017누36160",
+        "relateLaword": [
+            "행정소송법 제8조 ",
+            "민사소송법 제420조"
+        ],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "1",
+        "dedat": "3"
+    },
+    "org": {
+        "orgJdgmnCourtNm": "인천지방법원",
+        "orgJdgmnAdjuDe": "2017.1.12.",
+        "orgJdgmnCaseNo": "2015구합53088 "
+    },
+    "disposal": {
+        "disposalform": "10",
+        "disposalcontent": [
+            "원고의 항소를 기각한다.",
+            "항소비용은 원고가 부담한다.",
+            "이 법원의 판결 이유는 다음과 같이 일부 내용을 고치거나 추가하는 것 외에는 제1심판결의 이유와 같으므로, 행정소송법 제8조 제2항, 민사소송법 제420조 본문에 의하여 이를 인용한다."
+        ]
+    },
+    "mentionedItems": {
+        "rqestObjet": [
+            "제1심판결을 취소한다.",
+            "피고가 2016. 1. 4. 원고에 대하여 한 2013년 귀속 증여세 85,341,850원(가산세포함)의 부과처분을 취소한다."
+        ]
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": []
+    },
+    "dcss": {
+        "courtDcss": [
+            "이 법원의 판결 이유는 다음과 같이 일부 내용을 고치거나 추가하는 것 외에는 제1심판결의 이유와 같으므로, 행정소송법 제8조 제2항, 민사소송법 제420조 본문에 의하여 이를 인용한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "제1심판결은 정당하므로, 원고의 항소는 이유 없어 기각한다."
+        ]
+    }
+}

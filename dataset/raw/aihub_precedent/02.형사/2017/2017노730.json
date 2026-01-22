@@ -1,0 +1,57 @@
+{
+    "info": {
+        "caseField": "2",
+        "detailField": "6",
+        "trailField": "2",
+        "caseNm": "업무상횡령",
+        "courtNm": "서울북부지방법원",
+        "judmnAdjuDe": "2017. 12. 22.",
+        "caseNo": "2017노730",
+        "relateLaword": [
+            "형사소송법 제364조 제4항"
+        ],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "4",
+        "dedat": "1"
+    },
+    "org": {
+        "orgJdgmnCourtNm": "서울북부지방법원",
+        "orgJdgmnAdjuDe": "2017. 3. 29.",
+        "orgJdgmnCaseNo": "2016고단5904"
+    },
+    "disposal": {
+        "disposalform": "10",
+        "disposalcontent": [
+            "검사의 항소를 기각한다."
+        ]
+    },
+    "mentionedItems": {
+        "rqestObjet": [
+            "원심이 선고한 형은 너무 가벼워서 부당하다."
+        ]
+    },
+    "assrs": {
+        "acusrAssrs": [
+            "원심이 선고한 형은 너무 가벼워서 부당하다."
+        ],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "원심판결 이후 피고인의 양형에 고려할 만한 현저한 사정변경이 없다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이 사건 기록 및 변론에 나타난 양형 조건과 원심 판결의 양형 이유를 대조하여 보면, 검사가 항소 이유로 주장하는 사정을 모두 감안하더라도 원심의 형이 가벼워서 부당한 것으로는 볼 수 없다.",
+            "검사의 양형부당 주장은 받아들이지 않는다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "검사의 항소를 기각한다."
+        ]
+    }
+}

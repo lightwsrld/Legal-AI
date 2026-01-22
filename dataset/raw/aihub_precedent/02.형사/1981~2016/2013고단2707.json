@@ -1,0 +1,55 @@
+{
+    "info": {
+        "caseField": "2",
+        "detailField": "6",
+        "trailField": "1",
+        "caseNm": "상해",
+        "courtNm": "서울북부지방법원",
+        "judmnAdjuDe": "2014. 01. 29.",
+        "caseNo": "2013고단2707",
+        "relateLaword": [
+            "형법 제257조"
+        ],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "4",
+        "dedat": "1"
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "6",
+        "disposalcontent": [
+            "피고인을 징역 6월에 처한다."
+        ]
+    },
+    "mentionedItems": {
+        "rqestObjet": [
+            "피고인을 징역 6월에 처한다."
+        ]
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피고인은 2013. 6. 5. 21:50경 0000 B에 있는 'C'호프집에서, 선배인 피해자 D(49세, 남)과 함께 술을 마시던 중 피해자에게 'D'아라고 불렀고, 이에 피해자가 반말을 하지 말라면서 손바닥으로 피고인의 머리를 밀치자 화가 났다.",
+            "피고인은 머리로 피해자의 얼굴 부위를 들이받고 주먹으로 얼굴을 여러 번 때려 피해자에게 8주간 치료를 하여야 하는 안와골절 등의 상해를 가하였다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "형법 제257조 제1항에 따라 징역형을 선택한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "피고인을 징역 6월에 처한다."
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "2",
+        "detailField": "6",
+        "trailField": "2",
+        "caseNm": "상해",
+        "courtNm": "대구지방법원",
+        "judmnAdjuDe": "2013. 04. 25.",
+        "caseNo": "2012노3278",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "4",
+        "dedat": "1"
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "8",
+        "disposalcontent": [
+            "위 피고인에 대한 이 법원 2012노3278 상해 사건에 관하여 이 법원이 2013. 4. 19. 선고한 판결 중 제2면 제9행의  (벌금 70만원) 을  (징역 6월에 집행유예 2년) 으로 경정한다."
+        ]
+    },
+    "mentionedItems": {
+        "rqestObjet": [
+            "위 피고인에 대한 이 법원 2012노3278 상해 사건에 관하여 이 법원이 2013. 4. 19. 선고한 판결 중 제2면 제9행의  (벌금 70만원) 을  (징역 6월에 집행유예 2년) 으로 경정한다."
+        ]
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": []
+    },
+    "dcss": {
+        "courtDcss": [
+            "이 법원 2013.4.19.선고 2012노3278 판결에는 주문 기재와 같이 명백히 잘못된 기재가 있으므로 형사소송규칙 제25조 제1항에 의하여 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "위 피고인에 대한 이 법원 2012노3278 상해 사건에 관하여 이 법원이 2013.4.19.선고한 판결 중 제2면 제9행의 \"(벌금 70만원)\"을 \"(징역 6월에 집행유예 2년)\"으로 경정한다."
+        ]
+    }
+}

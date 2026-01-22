@@ -1,0 +1,6 @@
+# Large files over 100MB
+dataset/sft/stem/YISang-STEM_20000.jsonl
+dataset/sft/sft_1205_s.jsonl
+dataset/sft/sft_1205_s.csv
+dataset/sft/sft_1205_a.jsonl
+dataset/sft/sft_1205_a.csv

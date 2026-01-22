@@ -1,0 +1,60 @@
+{
+    "info": {
+        "caseField": "2",
+        "detailField": "6",
+        "trailField": "1",
+        "caseNm": "폭행",
+        "courtNm": "창원지방법원",
+        "judmnAdjuDe": "2014. 01. 28.",
+        "caseNo": "2013고정1404",
+        "relateLaword": [
+            "형법 제260조",
+            "형법 제70조",
+            "형법 제69조",
+            "형사소송법 제334조"
+        ],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "4",
+        "dedat": "1"
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "9",
+        "disposalcontent": [
+            "피고인을 벌금 30만 원에 처한다.",
+            "피고인이 위 벌금을 납입하지 아니하는 경우 5만 원을 1일로 환산한 기간 피고인을 노역장에 유치한다.",
+            "위 벌금에 상당한 금액의 가납을 명한다."
+        ]
+    },
+    "mentionedItems": {
+        "rqestObjet": [
+            "피고인을 벌금 30만 원에 처한다.",
+            "피고인이 위 벌금을 납입하지 아니하는 경우 5만 원을 1일로 환산한 기간 피고인을 노역장에 유치한다."
+        ]
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피고인은 2013. 7. 22 23:00경 0000 B에 있는 C세차장 앞길에서 피해자 D(31세)의 승용차를 대리운전한 후 요금 문제로 말다툼을 하던 중 손으로 피해자의 멱살을 잡아당기는 등 폭행하였다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "피고인을 벌금 30만 원에 처한다.",
+            "피고인이 위 벌금을 납입하지 아니하는 경우 5만 원을 1일로 환산한 기간 피고인을 노역장에 유치한다.",
+            "위 벌금에 상당한 금액의 가납을 명한다."
+        ]
+    }
+}

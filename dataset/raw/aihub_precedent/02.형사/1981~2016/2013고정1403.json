@@ -1,0 +1,55 @@
+{
+    "info": {
+        "caseField": "2",
+        "detailField": "6",
+        "trailField": "1",
+        "caseNm": "상해",
+        "courtNm": "창원지방법원",
+        "judmnAdjuDe": "2014. 01. 28.",
+        "caseNo": "2013고정1403",
+        "relateLaword": [
+            "형법 제257조",
+            "형법 제70조",
+            "형법 제69조",
+            "형법 제59조"
+        ],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "4",
+        "dedat": "1"
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "10",
+        "disposalcontent": [
+            "피고인에 대한 형의 선고를 유예한다."
+        ]
+    },
+    "mentionedItems": {
+        "rqestObjet": [
+            "피고인을 벌금 50만 원에 처한다."
+        ]
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피고인은 2013. 5. 26. 19:10경 김해시 B에 있는 건물 앞 도로에서 피해자 C에게 약 5년 전에 빌려 준 1억 원을 갚으라고 하였으나 피해자가 이를 거절하면서 어디론가 가려고 한다는 이유로 왼 팔로 피해자의 목 부위를 감싸 뒤로 잡아 당겨 바닥에 넘어뜨려 피해자에게 약 21일간의 치료를 요하는 두피의 표재성 손상, 타박상 등을 가하였다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "피고인에 대한 형의 선고를 유예한다. "
+        ]
+    }
+}

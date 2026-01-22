@@ -1,0 +1,57 @@
+{
+    "info": {
+        "caseField": "3",
+        "detailField": "5",
+        "trailField": "2",
+        "caseNm": "법인세부과처분취소",
+        "courtNm": "서울고등법원",
+        "judmnAdjuDe": "2017. 12. 01.",
+        "caseNo": "2017누61043",
+        "relateLaword": [
+            "행정소송법 제8조",
+            "민사소송법 제420조"
+        ],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "2",
+        "dedat": "3"
+    },
+    "org": {
+        "orgJdgmnCourtNm": "서울행정법원",
+        "orgJdgmnAdjuDe": "2017. 6. 30.",
+        "orgJdgmnCaseNo": "2017구합56933 "
+    },
+    "disposal": {
+        "disposalform": "10",
+        "disposalcontent": [
+            "원고의 항소 및 당심에서 확장된 청구를 모두 기각한다.",
+            "항소제기 이후의 소송비용은 원고가 부담한다.",
+            "이 판결 이유는 제1심 판결 이유와 같다."
+        ]
+    },
+    "mentionedItems": {
+        "rqestObjet": [
+            "제1심판결을 취소한다.",
+            "피고가 2016. 5. 4. 원고에 대하여 한 2013년 귀속 법인세 2,233,108,490원의 부과처분을 취소한다(원고는 당심에서 청구취지를 확장하였다)."
+        ]
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": []
+    },
+    "dcss": {
+        "courtDcss": [
+            "이 판결 이유는 제1심 판결 이유와 같으므로, 행정소송법 제8조 제2항, 민사소송법 제420조 본문에 의하여 이를 그래로 인용한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원고의 항소 및 당심에서 확장된 청구를 모두 기각한다.",
+            "항소제기 이후의 소송비용은 원고가 부담한다."
+        ]
+    }
+}

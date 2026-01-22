@@ -1,0 +1,57 @@
+{
+    "info": {
+        "caseField": "2",
+        "detailField": "6",
+        "trailField": "1",
+        "caseNm": "상해",
+        "courtNm": "의정부지방법원 고양지원",
+        "judmnAdjuDe": "2010. 12. 23.",
+        "caseNo": "2009고정1055",
+        "relateLaword": [
+            "형법 제257조",
+            "형법 제70조",
+            "형법 제69조",
+            "형법 제59조"
+        ],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "4",
+        "dedat": "1"
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "10",
+        "disposalcontent": [
+            "피고인에 대한 형의 선고를 유예한다."
+        ]
+    },
+    "mentionedItems": {
+        "rqestObjet": [
+            "피고인을 벌금 50만 원에 처한다."
+        ]
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피고인은 2009. 4. 3. 11:00경 0000 소재 파주법원 1층 복도에서 분리전 공동피고인 00로부터 폭행을 당하자 이에 대항하여 00의 멱살을 잡고 가슴을 할퀴고, 재차목을 조르며 안경을 쓰고 있는 얼굴을 3~5대를 때린 후 벽에 밀쳐 21일간의 치료를 요하는 경추부 염좌, 안면부 부종 및 찰과상, 흉부 타박상 및 찰과상의 상해를 가하였다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "피고인은 중한 범죄전력이 없고, 이 사건 경위에 특히 참작할 사정이 있는 점을 인정하여 피고인에 대한 형의 선고를 유예한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "피고인에 대한 형의 선고를 유예한다."
+        ]
+    }
+}

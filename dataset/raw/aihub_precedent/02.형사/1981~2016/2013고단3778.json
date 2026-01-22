@@ -1,0 +1,56 @@
+{
+    "info": {
+        "caseField": "2",
+        "detailField": "6",
+        "trailField": "1",
+        "caseNm": "상해",
+        "courtNm": "서울남부지방법원",
+        "judmnAdjuDe": "2014. 01. 29.",
+        "caseNo": "2013고단3778",
+        "relateLaword": [
+            "형법 제257조",
+            "형법 제35조"
+        ],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "4",
+        "dedat": "1"
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "6",
+        "disposalcontent": [
+            "피고인을 징역 4월에 처한다."
+        ]
+    },
+    "mentionedItems": {
+        "rqestObjet": [
+            "피고인을 징역 4월에 처한다."
+        ]
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피고인은 2012. 5. 24. 울산지방법원에서 상해죄 등으로 징역 10월을 선고받아 2012. 12. 19. 그 형의 집행을 종료하였다.",
+            "피고인은 2013. 9. 10. 03:00경 0000에 있는 피해자 D(35세)이 운영하는 'E PC방'에서 피해자가 피고인에게 술에 많이 취하였으니 다음에 오라는 취지로 말했다는 이유로 피해자의 얼굴을 주먹으로 때리고, 넘어진 피해자의 얼굴을 발로 1회 걷어 차 피해자에게 치료일수 미상의 아래 입술 안쪽이 터져서 피가 나게 하는 등의 상해를 가하였다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "피고인이 판시 누범 전과 등 폭력 전과가 21회 있는 점 등을 참작한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "형법 제257조 제1항(징역형 선택)에 따라 피고인을 징역 4월에 처한다."
+        ]
+    }
+}

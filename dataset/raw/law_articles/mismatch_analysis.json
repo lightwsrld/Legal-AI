@@ -1,0 +1,259 @@
+{
+  "summary": {
+    "total_files": 2760,
+    "success": 2760,
+    "error": 0,
+    "perfect_match": 2719,
+    "mismatch": 41,
+    "total_missing_articles": 95,
+    "avg_missing_per_file": 2.317073170731707
+  },
+  "mismatch_files": [
+    {
+      "file": "2000마5221.json",
+      "requested": 6,
+      "matched": 0,
+      "missing": 6
+    },
+    {
+      "file": "2000다19373.json",
+      "requested": 5,
+      "matched": 0,
+      "missing": 5
+    },
+    {
+      "file": "2000마724.json",
+      "requested": 4,
+      "matched": 0,
+      "missing": 4
+    },
+    {
+      "file": "2001마2094.json",
+      "requested": 4,
+      "matched": 0,
+      "missing": 4
+    },
+    {
+      "file": "2000다4272.json",
+      "requested": 6,
+      "matched": 2,
+      "missing": 4
+    },
+    {
+      "file": "2000마7550.json",
+      "requested": 4,
+      "matched": 0,
+      "missing": 4
+    },
+    {
+      "file": "2001다11055.json",
+      "requested": 6,
+      "matched": 2,
+      "missing": 4
+    },
+    {
+      "file": "2000마6319.json",
+      "requested": 6,
+      "matched": 2,
+      "missing": 4
+    },
+    {
+      "file": "2000다41844.json",
+      "requested": 5,
+      "matched": 1,
+      "missing": 4
+    },
+    {
+      "file": "2000다43819.json",
+      "requested": 5,
+      "matched": 2,
+      "missing": 3
+    },
+    {
+      "file": "2000마1143.json",
+      "requested": 3,
+      "matched": 0,
+      "missing": 3
+    },
+    {
+      "file": "2001마6620.json",
+      "requested": 3,
+      "matched": 0,
+      "missing": 3
+    },
+    {
+      "file": "2000다31526.json",
+      "requested": 5,
+      "matched": 2,
+      "missing": 3
+    },
+    {
+      "file": "2000다44348.json",
+      "requested": 7,
+      "matched": 4,
+      "missing": 3
+    },
+    {
+      "file": "2000다9611.json",
+      "requested": 5,
+      "matched": 2,
+      "missing": 3
+    },
+    {
+      "file": "2000다40773.json",
+      "requested": 3,
+      "matched": 0,
+      "missing": 3
+    },
+    {
+      "file": "2001마3688.json",
+      "requested": 4,
+      "matched": 2,
+      "missing": 2
+    },
+    {
+      "file": "2001마1632.json",
+      "requested": 4,
+      "matched": 2,
+      "missing": 2
+    },
+    {
+      "file": "2000마2633.json",
+      "requested": 4,
+      "matched": 2,
+      "missing": 2
+    },
+    {
+      "file": "2002마234.json",
+      "requested": 4,
+      "matched": 2,
+      "missing": 2
+    },
+    {
+      "file": "2000다33010.json",
+      "requested": 3,
+      "matched": 1,
+      "missing": 2
+    },
+    {
+      "file": "2000마5110.json",
+      "requested": 3,
+      "matched": 1,
+      "missing": 2
+    },
+    {
+      "file": "2001다73480.json",
+      "requested": 3,
+      "matched": 1,
+      "missing": 2
+    },
+    {
+      "file": "2000다41172.json",
+      "requested": 2,
+      "matched": 0,
+      "missing": 2
+    },
+    {
+      "file": "2000다30578.json",
+      "requested": 2,
+      "matched": 0,
+      "missing": 2
+    },
+    {
+      "file": "2000다23006.json",
+      "requested": 3,
+      "matched": 1,
+      "missing": 2
+    },
+    {
+      "file": "2000다7011.json",
+      "requested": 1,
+      "matched": 0,
+      "missing": 1
+    },
+    {
+      "file": "2001그4.json",
+      "requested": 4,
+      "matched": 3,
+      "missing": 1
+    },
+    {
+      "file": "2000마1439.json",
+      "requested": 1,
+      "matched": 0,
+      "missing": 1
+    },
+    {
+      "file": "2000다10079.json",
+      "requested": 2,
+      "matched": 1,
+      "missing": 1
+    },
+    {
+      "file": "2001다26774.json",
+      "requested": 3,
+      "matched": 2,
+      "missing": 1
+    },
+    {
+      "file": "2000다45020.json",
+      "requested": 3,
+      "matched": 2,
+      "missing": 1
+    },
+    {
+      "file": "2000다73490.json",
+      "requested": 2,
+      "matched": 1,
+      "missing": 1
+    },
+    {
+      "file": "2000다32161.json",
+      "requested": 3,
+      "matched": 2,
+      "missing": 1
+    },
+    {
+      "file": "2001그85.json",
+      "requested": 3,
+      "matched": 2,
+      "missing": 1
+    },
+    {
+      "file": "2000다72589.json",
+      "requested": 2,
+      "matched": 1,
+      "missing": 1
+    },
+    {
+      "file": "2000다5909.json",
+      "requested": 3,
+      "matched": 2,
+      "missing": 1
+    },
+    {
+      "file": "2001다59033.json",
+      "requested": 3,
+      "matched": 2,
+      "missing": 1
+    },
+    {
+      "file": "2000다51339.json",
+      "requested": 6,
+      "matched": 5,
+      "missing": 1
+    },
+    {
+      "file": "2001마2652.json",
+      "requested": 1,
+      "matched": 0,
+      "missing": 1
+    },
+    {
+      "file": "2001마1226.json",
+      "requested": 2,
+      "matched": 1,
+      "missing": 1
+    }
+  ]
+}
