@@ -9,9 +9,13 @@ conda activate trl
 
 ### SFT 학습 실행
 
-bash ./train/sft/run_sft.sh
+```bash
+./train/sft/run_sft.sh
+```
 
 ### RLVR 학습 실행
 
-bash ./train/rlvr/run_GSPO_batch.sh
+```bash
+./train/rlvr/run_GSPO_batch.sh
+```
 
